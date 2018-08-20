@@ -1,0 +1,7 @@
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\ConsoleApp\obj\Debug\ConsoleApp.pdb

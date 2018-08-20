@@ -1,0 +1,4 @@
+*.snk
+.vs
+CLR.Via.Csharp.Demos/
+packages/

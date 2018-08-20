@@ -1,0 +1,6 @@
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\AppDomains\bin\Release\Clr.Via.CSharp.AppDomains.dll.config
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\AppDomains\bin\Release\Clr.Via.CSharp.AppDomains.dll
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\AppDomains\bin\Release\Clr.Via.CSharp.AppDomains.pdb
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\AppDomains\obj\Release\AppDomains.csproj.CoreCompileInputs.cache
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\AppDomains\obj\Release\Clr.Via.CSharp.AppDomains.dll
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\AppDomains\obj\Release\Clr.Via.CSharp.AppDomains.pdb

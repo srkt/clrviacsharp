@@ -1,0 +1,9 @@
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\SqlServer\bin\Debug\SqlServer.dll
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\SqlServer\bin\Debug\SqlServer.pdb
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\SqlServer\bin\Debug\Common.dll
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\SqlServer\bin\Debug\Common.pdb
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\SqlServer\obj\Debug\SqlServer.csprojAssemblyReference.cache
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\SqlServer\obj\Debug\SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\SqlServer\obj\Debug\SqlServer.csproj.CopyComplete
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\SqlServer\obj\Debug\SqlServer.dll
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\SqlServer\obj\Debug\SqlServer.pdb

@@ -1,0 +1,5 @@
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\Common\bin\Debug\Common.dll
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\Common\bin\Debug\Common.pdb
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\Common\obj\Debug\Common.dll
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\Common\obj\Debug\Common.pdb

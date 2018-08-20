@@ -1,0 +1,9 @@
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\OracleDB\bin\Debug\OracleDB.dll
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\OracleDB\bin\Debug\OracleDB.pdb
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\OracleDB\bin\Debug\Common.dll
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\OracleDB\bin\Debug\Common.pdb
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\OracleDB\obj\Debug\OracleDB.csprojAssemblyReference.cache
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\OracleDB\obj\Debug\OracleDB.csproj.CoreCompileInputs.cache
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\OracleDB\obj\Debug\OracleDB.csproj.CopyComplete
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\OracleDB\obj\Debug\OracleDB.dll
+C:\Users\suman\source\repos\CLR.Via.Csharp.Demos\OracleDB\obj\Debug\OracleDB.pdb
